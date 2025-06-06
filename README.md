@@ -1,6 +1,6 @@
 # To-Do App
 
-A simple and responsive task manager built with **React** to help students stay organized, track assignments, and manage daily study goals effectively.
+A simple and responsive task manager built with **React** to help stay organized, track assignments, and manage daily goals effectively.
 
 ## Features
 
@@ -16,10 +16,6 @@ A simple and responsive task manager built with **React** to help students stay 
 - HTML/CSS
 - JavaScript
 - LocalStorage (for saving tasks in the browser)
-
-## Screenshots
-
-*(Add screenshots of your app UI here if available)*
 
 ## Installation
 
